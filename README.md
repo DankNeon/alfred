@@ -6,13 +6,16 @@
 
 ## Installation
 
-From Github
+**From Github**
+
 1. You can download the files directly by cloning this repo or downloading the zip.
 2. Unpackage your zip.
 3. Open Alfred > Preferences > Appearance
 4. Drag `Dank Neon.alfredappearance` to the theme side panel.
 
-Directly from Alfred
+----
+
+**Directly from Alfred**
 [Available Here](https://www.alfredapp.com/extras/theme/4absTV9zy3/)
 
 *You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
